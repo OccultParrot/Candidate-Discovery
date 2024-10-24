@@ -1,5 +1,4 @@
-import ICandidate from "../../interfaces/Candidate.interface.tsx";
-import './CandidateTableRow.css';
+import ICandidate from "../interfaces/Candidate.interface.tsx";
 
 interface IProps {
   candidate: ICandidate;
